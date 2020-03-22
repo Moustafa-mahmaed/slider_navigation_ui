@@ -20,6 +20,7 @@ import Drawer from "./drawer"
 const App = () => {
   return (
     <NavigationContainer >
+     <StatusBar hidden />
        <Drawer />
     </NavigationContainer>
   );

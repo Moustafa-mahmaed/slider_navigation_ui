@@ -7,8 +7,7 @@ const Messages = () => {
           <View style={{flexDirection: 'row', justifyContent: 'flex-end',
            marginHorizontal: 20,  marginTop: 45, marginBottom:20}}>
           <Text style={{color:"white" ,fontSize:25 ,fontWeight:"bold"}}>
-          - ايه هي مصادر العدوي المحتملة؟
-
+فترة حضانة المرض قد ايه؟
 
 
 
@@ -16,11 +15,7 @@ const Messages = () => {
           </View>
           <View style={{ marginHorizontal: 20,}}>
           <Text style={{color:"white" ,fontSize:18 ,fontWeight:"bold"}}>
-
-          • الاحتكاك بالشخص المصاب هو المصدر الاساسي للعدوي وخاصة افرازات الجسم اللي بتحتوي علي الڤايرس زي اللعاب والرذاذ المتطاير مع العطس او الكحة
-
-• ملامسة الاسطح الملوثة بالڤايرس من المصادر الثانوية للعدوي مع ملاحظة ان الاسطح الملساء زي مقابض الابواب مثلا ليها القدرة علي نقل العدوي اكتر من الانسجة والالياف
-
+تقريبا من 5 - 7 ايام لكن فترة العزل بتوصل 14 يوم
           </Text>
           </View>
 
